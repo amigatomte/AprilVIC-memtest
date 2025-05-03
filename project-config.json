@@ -1,0 +1,13 @@
+{
+    "name": "AprilVIC-memtest",
+    "description": "Project AprilVIC-memtest",
+    "toolkit": "kick",
+    "sources": [
+        "Main/copyscreennoram.asm"
+    ],
+    "build": "debug",
+    "definitions": [],
+    "includes": [],
+    "args": [],
+    "compiler": ""
+}
